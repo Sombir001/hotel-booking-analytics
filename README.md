@@ -141,3 +141,14 @@ hotel-booking-analytics/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+## Project Outcome
+
+The analysis demonstrates how Python can be used to transform raw hospitality
+booking data into actionable insights related to demand, cancellations,
+customer behaviour, revenue patterns, and operational planning.
+
+## Author
+
+**Sombir Singh**  
+Python Data Analysis Project  
