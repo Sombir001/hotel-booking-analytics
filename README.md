@@ -131,16 +131,23 @@ strategies.
    guests.
 5. Plan staffing, inventory, and pricing around seasonal demand peaks.
 
+
 ## Repository Contents
 
-```text
-hotel-booking-analytics/
-├── Hotel_Booking_Analysis.ipynb
-├── Hotel_Booking_Analysis.pptx
-├── hotel_bookings.csv
-├── README.md
-├── .gitignore
-└── LICENSE
+- `Python_Project_Cohort146.ipynb` — Main Python analysis notebook
+- `hotel_bookings.csv` — Hotel booking dataset
+- `Hotel_Booking_Analysis.pptx` — Final project presentation
+- `README.md` — Project documentation
+- `.gitignore` — Git ignore configuration
+- `LICENSE` — MIT License
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open `Python_Project_Cohort146.ipynb` in Jupyter Notebook or Google Colab.
+3. Make sure `hotel_bookings.csv` is available in the same project environment.
+4. Install any required Python libraries if necessary.
+5. Run the notebook cells sequentially.
 
 ## Project Outcome
 
